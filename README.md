@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Alluri</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer</h3>
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+
 
 
 
